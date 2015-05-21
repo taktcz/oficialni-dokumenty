@@ -129,8 +129,7 @@ Každý člen Spolku je povinen:
 
 1. Schůze členů je nejvyšším orgánem spolku
 2. Schůze členů:
-  1. volí a odvolává členy Rady a Kontrolní komise a rozhoduje o jejich
-odměňování,
+  1. volí a odvolává členy Rady a Kontrolní komise;
   2. schvaluje stanovy a změny stanov,
   3. schvaluje zprávu Rady o činnosti a hospodaření Spolku za období od
 předchozí schůze členů,
@@ -263,8 +262,9 @@ zvolí nové členy Rady. Rada musí o úmyslu kooptovat nového člena informov
 všechny členy Spolku a poskytnout jim týdenní lhůtu na podání kandidatury
 pro kooptaci. Rada volí kooptovaného člena z těchto kandidatur.
 8. Členům Rady může příslušet za výkon jejich funkce odměna. O výši a způsobu
-výplaty odměny rozhoduje Schůze členů. Členové Rady mají vůči Spolku nárok na
-náhradu nákladů účelně vynaložených v souvislosti s výkonem funkce člena Rady.
+výplaty odměny rozhoduje Kontrolní komise. Členové Rady mají vůči Spolku nárok
+na náhradu nákladů účelně vynaložených v souvislosti s výkonem funkce člena
+Rady.
 9. Členové Rady jsou povinni vykonávat svou působnost s péčí řádného hospodáře
 a zachovávat mlčenlivost o důvěrných informacích a skutečnostech, jejichž
 prozrazení třetím osobám by mohlo způsobit Spolku nebo jeho členům škodu.
@@ -371,7 +371,7 @@ komise musí o úmyslu kooptovat nového člena informovat všechny členy Spolk
 a poskytnout jim 7denní lhůtu na podání kandidatury pro kooptaci. Kontrolní
 komise volí kooptovaného člena z těchto kandidatur.
 8. Členům Kontrolní komise může příslušet za výkon jejich funkce odměna. O výši
-a způsobu výplaty odměny rozhoduje Schůze členů. Členové Kontrolní komise mají
+a způsobu výplaty odměny rozhoduje Rada Spolku. Členové Kontrolní komise mají
 vůči Spolku nárok na náhradu nákladů účelně vynaložených v souvislosti s
 výkonem funkce člena Kontrolní komise.
 9. Členové Kontrolní komise jsou povinni vykonávat svou působnost s péčí
