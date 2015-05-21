@@ -70,19 +70,7 @@ podaly žádost o přijetí do Spolku, jsou oprávněny jménem žadatele jednat
 5. Zájemce o členství je povinen vzít na vědomí, že odpovědnost za data,
 která do informačního systému vloží, nese on, nikoliv Spolek jako celek.
 
-### §6 Pozastavení činnosti člena ve Spolku
-
-1. Člen má možnost pozastavit činnost ve Spolku, tj. přerušit činnost ve Spolku
-bez zániku členství na dobu libovolně dlouhou, pokud není v rozporu
-s bodem 2. §6.
-2. Pozastavení členství je možné jen na celé měsíce a v minimální délce 2 měsíce
-3. Po dobu pozastavení činnosti nemá člen právo přistupovat k infrastruktuře
-Spolku
-4. Po dobu pozastavení činnosti nemá člen povinnost platit členské poplatky
-5. Oznámení o pozastavení činnosti ve Spolku pošle člen Radě spolku 
-elektronickou formou, stejně jako Oznámení o pokračování v činnosti ve Spolku.
-
-### §7 Zrušení členství
+### §6 Zrušení členství
 
 1. Členství zaniká:
   1. dobrovolným vystoupením ze Spolku
@@ -94,7 +82,7 @@ elektronickou formou, stejně jako Oznámení o pokračování v činnosti ve Sp
 adresovaného Radě spolku. V takovém případě končí členství ke dni doručení
 oznámení Radě.
 3. O vyloučení člena rozhoduje Rada spolku, jestliže člen opakovaně porušil
-Stanovy nebo Interní řád uvedený v §19, nebo zvlášť závažným způsobem poškozuje
+Stanovy nebo Interní řád uvedený v §18, nebo zvlášť závažným způsobem poškozuje
 zájmy a dobré jméno Spolku.
 4. Proti rozhodnutí Rady o vyloučení se může člen odvolat ke Kontrolní komisi do
 10 dnů ode dne,
@@ -107,12 +95,12 @@ se Spolku zavazuje, že data člena z informačního systému neprodleně smaže
 Členství ve Spolku je ukončeno uplynutím této doby. Vyloučený člen je během
 této doby osvobozen od povinnosti platit členské příspěvky.
 
-### §8 Práva členů
+### §7 Práva členů
 
 Každý člen Spolku má právo:
 
 1. využívat veškeré výhody, které členství ve Spolku poskytuje, a to takové
-míře, jakou stanoví Provozní řád spolku uvedený v bodě §19,
+míře, jakou stanoví Provozní řád spolku uvedený v bodě §18,
 2. účastnit se jednání Schůze členů, hlasovat a uplatňovat návrhy,
 3. volit členy do orgánů spolku,
 4. být volen do orgánů spolku,
@@ -120,12 +108,12 @@ míře, jakou stanoví Provozní řád spolku uvedený v bodě §19,
 k přezkoumání,
 6. nabídnout své výpočetní prostředky pro využití k plnění cílů spolku.
 
-### §9 Povinnosti členů
+### §8 Povinnosti členů
 
 Každý člen Spolku je povinen:
 
 1. dodržovat Stanovy spolku,
-2. dodržovat interní řády Spolku uvedené v §19,
+2. dodržovat interní řády Spolku uvedené v §18,
 3. nepoškozovat zájmy a dobré jméno spolku,
 4. aktivně se podílet na naplňování cílů Spolku,
 5. platit členské příspěvky ve výši předepsané Finančním řádem Spolku.
@@ -137,7 +125,7 @@ Každý člen Spolku je povinen:
 
 ### Schůze členů
 
-### §10 Postavení a působnost
+### §9 Postavení a působnost
 
 1. Schůze členů je nejvyšším orgánem spolku
 2. Schůze členů:
@@ -153,7 +141,7 @@ za období od předchozí chůze členů,
 a existenci spolku, zejména otázky zániku spolku, nebo slučování s jiným spolkem
 a podobně
 
-### §11 Svolávání
+### §10 Svolávání
 
 1. Schůze členů se koná nejméně jednou za rok, s přesahem nejvýše dvou měsíců
 2. Schůzi členů svolává Rada Spolku nejpozději 30 dnů před konáním Schůze
@@ -167,7 +155,7 @@ informačním systému spolku
 5. Rada Spolku je povinna do programu Schůze zahrnout body, které navrhne
 Kontrolní komise a jakýkoliv člen Spolku
 
-### §12 Jednání
+### §11 Jednání
 
 1. Jednání probíhá podle programu, který přítomní členové schválí na začátku
 Schůze
@@ -191,7 +179,7 @@ výsledků hlasování
   7. obsah námitky člena Spolku týkající se rozhodnutí Schůze členů, jestliže
 o to dotyčný žádá
 
-### §13 Mimořádné jednání Schůze členů
+### §12 Mimořádné jednání Schůze členů
 
 1. Rada svolá mimořádné jednání Schůze členů do 30 dnů, pokud:
   1. o to požádá alespoň jedna třetina všech členů, pokud není v žádosti uvedena
@@ -211,20 +199,20 @@ podezření, že člen Rady nebo Kontrolní komise:
 přesto neodstoupit z funkce.
 Mimořádná schůze členů musí projednat zejména toto podezření.
 
-### §14 Jednací řád
+### §13 Jednací řád
 
 Schůze členů po zahájení schválí jednací řád, který upraví náležitosti účasti
 členů Spolku na jednání Schůze členů, jednání Schůze členů, způsob uplatňování
 práv a hlasování při jednání.
 
-### §15 Volební řád
+### §14 Volební řád
 
 Schůze členů po zahájení schválí volební řád, který upraví postup při volbě
 členů Rady a Kontrolní komise.
 
 ### RADA
 
-### §16 Postavení a působnost
+### §15 Postavení a působnost
 
 1. Rada je statutárním orgánem spolku, který řídí činnost Spolku
 2. Rada rozhoduje o všech činnostech spolku, které nejsou stanovami vyhrazeny do
@@ -251,7 +239,7 @@ komisi
 uzavření obchodů s členem Spolku nebo s osobami jemu blízkými v pracovněprávním
 nebo jiném obdobném vztahu.
 
-### §17 Složení a funkční období
+### §16 Složení a funkční období
 
 1. Rada má, pokud to členská základna dovoluje, minimálně 3 členy a maximálně
 pět členů.
@@ -284,7 +272,7 @@ prozrazení třetím osobám by mohlo způsobit Spolku nebo jeho členům škodu
 10. Člen Rady je povinen při zániku funkce do 10 pracovních dnů předat veškerý
 finanční a hmotný majetek Spolku, účetnictví Spolku i další evidenci Spolku.
 
-### §18 Jednání
+### §17 Jednání
 
 1. Rada zasedá nejméně jedenkrát měsíčně. Zasedání může být i v podobě
 elektronické konference pomocí informačního systému Spolku.
@@ -294,7 +282,7 @@ Radou.
 rozhoduje hlas Předsedy. Rada je usnášeníschopná, je-li přítomna nadpoloviční
 většina jejích členů.
 
-### §19 Interní řády
+### §18 Interní řády
 
 1.  Rada vydává pro potřeby řádného chodu Spolku interní řády:
 Organizační řád,
@@ -313,7 +301,7 @@ Finanční řád je platný po schválení Schůzí členů.
 elektronické zprávy zaslané všem členům a veřejným oznámením v informačním
 systému Spolku nejméně 10 pracovních dnů před začátkem platnosti.
 
-### §20 Hospodář
+### §19 Hospodář
 
 1. Hospodář je člen Rady odpovědný za:
   1. správu finančního a hmotného majetku,
@@ -321,7 +309,7 @@ systému Spolku nejméně 10 pracovních dnů před začátkem platnosti.
   3. účetní operace podle platných právních předpisů.
 2. Hospodáře volí Rada ze svých členů.
 
-### §21 Předseda
+### §20 Předseda
 
 1. Jménem Spolku podepisuje Předseda; v jeho nepřítomnosti člen pověřený Radou.
 Podepisování za Spolku se uskutečňuje tak, že k názvu Spolku se připojí jméno
@@ -333,7 +321,7 @@ Spolku a práci případných zaměstnanců.
 
 ### KONTROLNÍ KOMISE
 
-### §22 Postavení a působnost
+### §21 Postavení a působnost
 
 1. Kontrolní komise je kontrolním orgánem Spolku, který dohlíží na výkon
 působnosti Rady a na uskutečňování činnosti Spolku.
@@ -350,7 +338,7 @@ právní úpravou, stanovami a řády Spolku a pokyny Schůze členů,
   6. nejméně jedenkrát za kalendářní rok podává zprávu Radě a členům ve formě
 elektronické zprávy zaslané všem členům a veřejným oznámením v informačním
 systému Spolku o výsledcích své kontrolní činnosti,
-  7. svolává jednání Rady pokud Rada nesvolá řádné zasedání podle §18,
+  7. svolává jednání Rady pokud Rada nesvolá řádné zasedání podle §17,
   8. svolává neprodleně mimořádné jednání Schůze členů, pokud Schůzi členů
 nesvolá Rada v řádném termínu, nebo pokud to vyžadují zájmy Spolku.
 4. Rada je povinna umožnit Kontrolní komisi veřejné a neprodlené publikování
@@ -360,7 +348,7 @@ elektronické zprávy zaslané všem členům Spolku a veřejným oznámením
 v informačním systému Spolku na porušení zákonů, stanov, na nehospodárné
 postupy, popřípadě na další nedostatky v činnosti Spolku.
 
-### §23 Složení a funkční období
+### §22 Složení a funkční období
 
 1. Kontrolní komise má 2 členy.
 2. Členy Kontrolní komise volí Schůze členů.
@@ -397,7 +385,7 @@ jeho členům škodu.
 
 ### Zásady hospodaření
 
-### §24
+### §23
 
 1. Spolek je neziskovou organizací.
 2. Spolek hospodaří s vlastním majetkem, jehož zdroje jsou zejména členské
@@ -416,7 +404,7 @@ rozhodnout do 10 pracovních dnů.
 Článek VI
 ---------
 
-### §25 Zánik
+### §24 Zánik
 
 1. O zániku Spolku rozhoduje Schůze členů.
 2. Při zániku Spolku provede Rada majetkové vypořádání. Schůze členů zůstatek
@@ -426,7 +414,7 @@ převede na jiný neziskový subjekt, který je založen ke stejným nebo obdobn
 Článek VII
 ----------
 
-### §26 Závěrečná ustanovení
+### §25 Závěrečná ustanovení
 
 Komunikace uvnitř Spolku
 
@@ -439,7 +427,7 @@ a dalších údajů, které mají být používány ke komunikaci Spolku s člen
 považují za doručené i v případě, že je člen na adrese vedené v seznamu členů
 nepřevzal nebo převzít odmítl.
 
-### §27 Stanovy
+### §26 Stanovy
 
 1. Rada zabezpečuje vyhotovení úplného znění stanov a je povinna oznámit nové
 znění stanov Ministerstvu vnitra ČR.
