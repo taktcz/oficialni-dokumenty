@@ -143,8 +143,8 @@ a podobně
 
 ### §10 Svolávání
 
-1. Schůze členů se koná nejméně jednou za rok, s přesahem nejvýše dvou měsíců
-2. Schůzi členů svolává Rada Spolku nejpozději 30 dnů před konáním Schůze
+1. Schůze členů se koná nejméně jednou za rok, s přesahem nejvýše tří měsíců
+2. Schůzi členů svolává Rada Spolku nejpozději 14 dnů před konáním Schůze
 členů
 3. Schůze členů se svolává e-mailem všem členům a vyvěšením oznámení v
 informačním systému spolku
@@ -160,8 +160,7 @@ Kontrolní komise a jakýkoliv člen Spolku
 1. Jednání probíhá podle programu, který přítomní členové schválí na začátku
 Schůze
 2. Řádně svolaná Schůze členů je vždy usnášeníschopná. Schůze členů rozhoduje 
-prostou většinou
-hlasů přítomných členů.
+prostou většinou hlasů přítomných členů.
 3. Zahájení a průběh jednání Schůze členů řídí předseda Rady spolku, nebo jiný
 člen pověřený Radou Spolku
 4. O Schůzi členů se pořizuje zápis; na začátku jednání se volí zapisovatel
