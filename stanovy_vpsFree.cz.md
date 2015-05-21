@@ -11,8 +11,8 @@ podle zákona č. 89/2012 Sb. v platném znění:
 Tyto stanovy upravují postavení a právní poměry ve spolku vpsFree.cz (dále jen
 „Spolek“).
 
-1. Název Spolku je vpsFree.cz, z.s.
-2. Sídlem Spolku je Na Štamberku 7, Praha 8, 182 00
+1. Název Spolku je vpsFree.cz, z.s.; Spolek navenek vystupuje jako "vpsFree.cz".
+2. Sídlem Spolku je Nad Dalejským údolím 2699/9, 155 00 Praha - Stodůlky.
 3. Spolek je neziskovým a dobrovolným sdružením fyzických a právnických osob.
 4. Spolek je právnickou osobou.
 
@@ -28,7 +28,9 @@ Cíle činnosti Spolku jsou:
 3. podpora využívání open-source technologií,
 4. podpora šíření vzdělání, zejména v oblasti informačních technologií,
 5. zejména provozování informačního systému, síťové infrastruktury a
-počítačových serverů pro využití členy Spolku.
+počítačových serverů pro využití členy Spolku,
+6. vývoj podpůrných hardwarových a softwarových řešení na základě otevřených
+standardů.
 
 ### §3
 
@@ -52,9 +54,10 @@ podílet na naplňování cílů Spolku.
 ### §5 Vznik členství
 
 1. Členství ve Spolku je dobrovolné
-2. Zájemce o členství podá řádně vyplněnou žádost písemnou formou na adresu
-Spolku, za použití a vyplnění dokumentu k tomu určeného, který je uveřejněn v
-informačním systému Spolku, dostupným na adrese http://www.vpsfree.cz.
+2. Zájemce o členství podá řádně vyplněnou žádost elektronickou formou do
+informačního systému Spolku, za použití a vyplnění formuláře k tomu určeného;
+odkaz na registrační formulář je zpřístupněn na porálu Spolku přes domovskou
+webovou adresu Spolku https://www.vpsfree.cz.
 O přijetí zájemce rozhoduje Rada spolku; členství ve Spolku vzniká dnem zavedení
 nového člena do informačního systému Spolku. Pokud člen neuhradí vstupní
 poplatek podle finančního řádu spolku, má se za to, že členství nevzniklo.
