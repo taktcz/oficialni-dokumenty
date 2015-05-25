@@ -349,7 +349,7 @@ postupy, popřípadě na další nedostatky v činnosti Spolku.
 
 ### §22 Složení a funkční období
 
-1. Kontrolní komise má 2 členy.
+1. Kontrolní komise má 3 členy.
 2. Členy Kontrolní komise volí Schůze členů.
 3. Členem Kontrolní komise může být pouze fyzická osoba, která dosáhla věku
 18 let, která je plně způsobilá k právním úkonům, je členem Spolku a není ani
