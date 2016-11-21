@@ -1,14 +1,7 @@
-<<<<<<< HEAD
-Stanovy občanského sdružení vpsFree
-===================================
-
-podle zákona č. 83/1990 Sb. o sdružování občanů, v platném znění.
-=======
 Stanovy spolku vpsFree.cz
 =========================
 
 podle zákona č. 89/2012 Sb. v platném znění:
->>>>>>> devel
 
 Článek I
 --------
