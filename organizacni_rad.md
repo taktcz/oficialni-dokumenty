@@ -1,25 +1,24 @@
-Organizační řád vpsFree.cz, z.s.
-================================
+# Organizační řád vpsFree.cz, z.s.
 
-Obsah
------
 
-0. Vymezení a platnost dokumentu
-1. Ochrana soukromí
-2. Data k ochraně a nakládání s nimi
-3. Osoby s přístupem a definice odpovědnosti
-4. Kontakt pro řešení otázek ochrany soukromí a dat
+## Obsah
 
-0. Vymezení a platnost dokumentu
---------------------------------
+
+1. Vymezení a platnost dokumentu
+2. Ochrana soukromí
+3. Data k ochraně a nakládání s nimi
+4. Osoby s přístupem a definice odpovědnosti
+5. Kontakt pro řešení otázek ochrany soukromí a dat
+
+
+### 1. Vymezení a platnost dokumentu
 
 1. Rozsah podmínek upravitelných v organizačním řádu je definován ve stanovách spolku
 vpsFree.cz (dále také jen jako "spolek").
 
 2. Tato verze vstupuje v platnost 1. 5. 2018
 
-1. Ochrana soukromí
--------------------
+### 2. Ochrana soukromí
 
 1. Spolek a jeho principy fungování se zakládají na hlubokém respektu k soukromí
 jednotlivce, jeho právo na sebeurčení a jeho nerušený rozvoj s respektem k ostatním.
@@ -28,7 +27,7 @@ při vzniku funkce - Rada svou povinnost mlčenlivosti ctí neustálým zlepšov
 ochrany soukromí členů a Kontrolní komise na tuto činnost Rady dohlíží a
 případně ji stimuluje.
 
-2. Data k ochraně a nakládání s nimi
+### 3. Data k ochraně a nakládání s nimi
  - Zájemce o členství svěřuje Radě spolku tyto informace v naději o co nejlepší
    posouzení jeho přihlášky:
    - Přezdívku
@@ -75,14 +74,14 @@ složenkou České Pošty).
  - Transparentní účty spolku:
    - [2200041594/2010 FIO Banka, a.s.](https://www.fio.cz/ib2/transparent?a=2200041594)
 
-3. Osoby s přístupem a definice odpovědnosti
+### 4. Osoby s přístupem a definice odpovědnosti
  - Seznam administrátorů serverů s plným přístupem, jak fyzickým, tak vzdáleným:
    - [Členové s plným root přístupem na servery](https://kb.vpsfree.cz/informace/admini#clenove_s_plnym_root_pristupem_na_servery) (-> kb.vpsfree.cz)
  - Členové pověření Radou k posuzování přihlášek, tedy osoby s přístupem k
    přihláškám a seznamu členů ve vpsAdminu:
    - [Členové se správcovským přístupem k vpsAdminu](https://kb.vpsfree.cz/informace/admini#clenove_se_spravcovskym_pristupem_k_vpsadminu) (-> kb.vpsfree.cz)
 
-4. Kontakt pro řešení otázek ochrany soukromí a dat
+### 5. Kontakt pro řešení otázek ochrany soukromí a dat
  - Pro otázky ochrany soukromí, osobních údajů, GDPR incidenty a žádosti ve spolku je nejlepším prvním 
 krokem kontaktovat spolek na podpora@vpsfree.cz; v případě možného
 konfliktu zájmů s Radou je pro nestrannost možné kontaktovat Kontrolní komisi na
