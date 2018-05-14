@@ -50,6 +50,7 @@ případně ji stimuluje.
    externí služby - Fakturoid (poskytovatelem je Fakturoid s. r. o., se sídlem
    V pláni 532/7, Praha 4, 142 00, zapsaná v OR u Městského soudu v Praze, oddíl C,
    vložka 250448, IČ: 04656679, DIČ: CZ04656679, [obchodní podmínky Fakturoidu](https://www.fakturoid.cz/obchodni-podminky)).
+ - Účetnictví spolku vede ARVP s.r.o., se sídlem Mirošovice, Pod Ježovem 336, PSČ 251 66, zapsána v OR u Městského soudu v Praze, oddíl C, vložka 224685, IČ: 02860686, DIČ: CZ02860686
  - Data uložená na infrastruktuře spolku jsou považována implicitně za důvěrná a
    Rada spolku musí udělat prakticky realizovatelné maximum pro jejich ochranu.
  - Infrastruktura spolku je tvořena servery a dalším vybavením ve výhradním
