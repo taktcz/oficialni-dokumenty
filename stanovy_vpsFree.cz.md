@@ -221,10 +221,10 @@ považuje takový člen, který se zúčastnil hlasování podle předchozího b
 dálkového hlasu 120 hodin od okamžiku předložení návrhu k hlasování, není-li ve
 schváleném programu schůze u daného návrhu stanoveno jinak
 6. Hlasování na dálku může Rada spolku v mimořádných případech, nebo v
-případech, kdy není praktické svolávat Schůzi členu, vyvolat i o samostatných
-návrzích mimo Schůzu členů; v takovém případě se postupuje přiměřeně podle §
-11a a 11b a hlasování má stejné účinky, jako by bylo provedeno na řádné Schůzi
-členů
+případech, kdy není praktické svolávat řádnou Schůzi členu, vyvolat i o
+samostatných návrzích mimo řádnou Schůzi členů; v takovém případě se postupuje
+přiměřeně podle § 11a a 11b a hlasování má stejné účinky, jako by bylo
+provedeno na řádné Schůzi členů
 7. Termín pro odevzdání dálkového hlasu podle předchozího bodu je 336 hodin;
 tento termín může Rada spolku zkrátit pouze v odůvodněných případech, nejméně
 však na 24 hodin
