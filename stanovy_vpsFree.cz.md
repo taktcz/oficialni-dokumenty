@@ -68,7 +68,7 @@ podílet na naplňování cílů Spolku.
 1. Členství ve Spolku je dobrovolné
 2. Zájemce o členství podá řádně vyplněnou žádost elektronickou formou do
 informačního systému Spolku, za použití a vyplnění formuláře k tomu určeného;
-odkaz na registrační formulář je zpřístupněn na porálu Spolku přes domovskou
+odkaz na registrační formulář je zpřístupněn na portálu Spolku přes domovskou
 webovou adresu Spolku https://www.vpsfree.cz.
 O přijetí zájemce rozhoduje Rada spolku; členství ve Spolku vzniká dnem zavedení
 nového člena do informačního systému Spolku. Pokud člen neuhradí vstupní
@@ -195,11 +195,11 @@ o to dotyčný žádá
 1. Jednání Schůze členů dle § 11 může probíhat způsobem umožňujícím dálkovou
 účast; taková schůze může probíhat částečně či zcela ve virtuálním prostoru
 prostřednictvím prostředků komunikace na dálku, a to v informační systému
-(prostředí) Spolku, event. jiným způsobem (naříklad emailem).
+(prostředí) Spolku, event. jiným způsobem (například emailem).
 2. Rada Spolku v pozvánce na Jednání Schůze členů stanoví podmínky dálkové
 účast na dané Schůzi členů, nebo odkáže na řád pro hlasování Schůze členů na
-dálku (per rollma) přijatý dle § 18 Stanov
-3. Při jednání na dálku mohou účastníchi Schůze členů s hlasovacím právem
+dálku (per rollam) přijatý dle § 18 Stanov
+3. Při jednání na dálku mohou účastníci Schůze členů s hlasovacím právem
 hlasovat na dálku; takové hlasování má stejné účinky, jako hlasování v
 přítomnosti.
 4. Program Schůze členů, která probíhá částečně či zcela na dálku, se považuje
@@ -213,7 +213,7 @@ neuplatní.
 2. Dálkové hlasování probíhá po jednotlivých návrzích zvlášť
 3. Každý účastník Schůze členů, který hlasuje na dálku, může v každém návrhu
 hlasovat PRO přijetí, PROTI přijetí, nebo se zdržet hlasování; zdržení se
-hlasování musí být aktivím úkonem, který má stejnou formu, jako hlasování PRO
+hlasování musí být aktivním úkonem, který má stejnou formu, jako hlasování PRO
 nebo PROTI
 4. Za přítomného člena podle bodu 2. §11  se v případě hlasování na dálku
 považuje takový člen, který se zúčastnil hlasování podle předchozího bodu.
@@ -342,7 +342,7 @@ většina jejích členů.
 Organizační řád,
   2. Provozní řád,
   3. Finanční řád,
-  4. Řád pro hlasování Schůte členů na dálku (per rollam).
+  4. Řád pro hlasování Schůze členů na dálku (per rollam).
 2. Interní řády jsou veřejné, platný text je vždy zveřejněn v informačním
 systému spolku.
 3. Organizační řád upravuje zejména podrobné postupy při organizování činnosti
@@ -353,7 +353,7 @@ Spolku.
 Spolku členem.5. Finanční řád upravuje zejména výši členských příspěvků.
 Finanční řád je platný po schválení Schůzí členů.
 6. Řád pro hlasování Schůze členů na dálku (per rollam) upravuje zejména postup
-při tomto způsobu hlasování a technické řešení tohoto hlasování a dale podmínky
+při tomto způsobu hlasování a technické řešení tohoto hlasování a dále podmínky
 pro účast na takovém hlasování.
 7. O změně uvedených řádů je Rada povinna informovat oznámením ve formě
 elektronické zprávy zaslané všem členům a veřejným oznámením v informačním
@@ -408,7 +408,7 @@ postupy, popřípadě na další nedostatky v činnosti Spolku.
 2. Členy Kontrolní komise volí Schůze členů.
 3. Členem Kontrolní komise může být pouze fyzická osoba, která dosáhla věku
 18 let, která je plně způsobilá k právním úkonům, je členem Spolku a není ani
-sama ani osoby jí blízké se Spolkum v pracovněprávním nebo jiném obdobném
+sama ani osoby jí blízké se Spolkem v pracovněprávním nebo jiném obdobném
 vztahu. Za bezúhonnou se považuje osoba, která je bezúhonná ve smyslu zákona
 o živnostenském podnikání.
 4. Členství v Kontrolní komisi je neslučitelné s členstvím v Radě.
@@ -488,5 +488,5 @@ znění stanov příslušnému spolkovému rejstříku
 2. Stanovy jsou veřejné a Rada zajistí, aby v informačním systému Spolku bylo
 zveřejněno aktuální znění stanov.
 3. Tyto stanovy byly schváleny na jednání Schůze členů dne 8.3.2019 a
-nahrarazují v plném rozsahu stanovy Spolku ze dne 21.12.2015.
+nahrazují v plném rozsahu stanovy Spolku ze dne 21.12.2015.
 4. Tyto stanovy jsou účinné od 8.3.2019.
