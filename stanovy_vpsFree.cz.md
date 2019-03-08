@@ -195,7 +195,8 @@ nápravu nepřesností ještě před rozesláním
 1. Jednání Schůze členů dle § 11 může probíhat způsobem umožňujícím dálkovou
 účast; taková schůze může probíhat částečně či zcela ve virtuálním prostoru
 prostřednictvím prostředků komunikace na dálku, a to v informační systému
-(prostředí) Spolku, event. jiným způsobem (například emailem).
+(prostředí) Spolku, event. jiným způsobem stanoveným Radou spolku nebo
+příslušným internim řádem
 2. Rada Spolku v pozvánce na Jednání Schůze členů stanoví podmínky dálkové
 účasti na dané Schůzi členů, nebo odkáže na řád pro hlasování Schůze členů na
 dálku (per rollam) přijatý dle § 18 Stanov
