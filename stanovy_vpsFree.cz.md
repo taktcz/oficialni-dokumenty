@@ -256,12 +256,14 @@ Mimořádná schůze členů musí projednat zejména toto podezření.
 
 Schůze členů po zahájení schválí jednací řád, který upraví náležitosti účasti
 členů Spolku na jednání Schůze členů, jednání Schůze členů, způsob uplatňování
-práv a hlasování při jednání.
+práv a hlasování při jednání; jednací řád může být schválen společně s
+programem schůze.
 
 ### §14 Volební řád
 
 Schůze členů po zahájení schválí volební řád, který upraví postup při volbě
-členů Rady a Kontrolní komise.
+členů Rady a Kontrolní komise; volební řád může být schválen společně s
+programem schůze.
 
 ### RADA
 
