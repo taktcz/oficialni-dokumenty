@@ -32,7 +32,7 @@ počítačových serverů pro využití členy Spolku,
 6. vývoj podpůrných hardwarových a softwarových řešení na základě otevřených
 standardů.
 
-### §3
+### §3 Činnosti, které směřují k plnění cílů spolku
 
 Činnosti, které směřují k plnění cílů spolku, jsou zejména:
 
@@ -42,6 +42,18 @@ standardů.
 4. pořádání školení, diskuzí, konferencí, seminářů pro členy,
 5. poskytování poradenských a konzultačních služeb,
 6. spolupráce se subjekty, které sledují podobné cíle.
+
+### §3a Vedlejší činnost
+
+1. Spolek může vykonávat vedlejší činnost.
+2. Vedlejší činností je hospodářská činnost vykonávaná za účelem podpory
+hlavních činností Spolku a za účelem hospodárného využití majetku Spolku. K
+zajištění svých hlavních činností může Spolek vykonávat podnikatelskou činnost
+na základě oprávnění podle zákona č. 455/1991 Sb., o živnostenském podnikání,
+ve znění pozdějších předpisů, v rámci živnosti volné „Výroba, obchod a služby
+neuvedené v přílohách 1 až 3 živnostenského zákona.
+3. Veškerý zisk získaný Spolkem z vedlejší činnosti musí být použit v plném
+rozsahu na hlavní činnost Spolku.
 
 Článek III
 ----------
@@ -138,7 +150,7 @@ za období od předchozí chůze členů,
   5. zadává úkoly Kontrolní komisi,
   6. rozhoduje o zásadních záležitostech výrazně ovlivňujících budoucí fungování
 a existenci spolku, zejména otázky zániku spolku, nebo slučování s jiným spolkem
-a podobně
+a podobně.
 
 ### §10 Svolávání
 
@@ -154,12 +166,12 @@ informačním systému spolku
 5. Rada Spolku je povinna do programu Schůze zahrnout body, které navrhne
 Kontrolní komise a jakýkoliv člen Spolku
 
-### §11 Jednání
+### §11 Jednání schůze členů
 
 1. Jednání probíhá podle programu, který přítomní členové schválí na začátku
 Schůze
-2. Řádně svolaná Schůze členů je vždy usnášeníschopná. Schůze členů rozhoduje 
-prostou většinou hlasů přítomných členů.
+2. Řádně svolaná Schůze členů je usnášeníschopná při účasti alespoň třetiny
+členů. Schůze členů rozhoduje prostou většinou hlasů přítomných členů.
 3. Zahájení a průběh jednání Schůze členů řídí předseda Rady spolku, nebo jiný
 člen pověřený Radou Spolku
 4. O Schůzi členů se pořizuje zápis; na začátku jednání se volí zapisovatel
@@ -176,6 +188,48 @@ nápravu nepřesností ještě před rozesláním.
 výsledků hlasování
   7. obsah námitky člena Spolku týkající se rozhodnutí Schůze členů, jestliže
 o to dotyčný žádá
+6. Umožňuje se konání náhradní Schůze členů dle ustanovení § 257 občanského zákoníku.
+
+### §11a Jednání na dálku (per rollam)
+
+1. Jednání Schůze členů dle § 11 může probíhat způsobem umožňujícím dálkovou
+účast; taková schůze může probíhat částečně či zcela ve virtuálním prostoru
+prostřednictvím prostředků komunikace na dálku, a to v informační systému
+(prostředí) Spolku, event. jiným způsobem (naříklad emailem).
+2. Rada Spolku v pozvánce na Jednání Schůze členů stanoví podmínky dálkové
+účast na dané Schůzi členů, nebo odkáže na řád pro hlasování Schůze členů na
+dálku (per rollma) přijatý dle § 18 Stanov
+3. Při jednání na dálku mohou účastníchi Schůze členů s hlasovacím právem
+hlasovat na dálku; takové hlasování má stejné účinky, jako hlasování v
+přítomnosti.
+4. Program Schůze členů, která probíhá částečně či zcela na dálku, se považuje
+za schválený, pokud nedojde k jeho zamítnutí účastníky schůze do 1 hodiny od
+zahájení schůze; bod 5. § 11b o dálkovém hlasování se v tomto případě
+neuplatní.
+
+### §11b Průběh hlasování na dálku (per rollam)
+
+1. Dálkové hlasování je zajištěno vhodnými technickými prostředky
+2. Dálkové hlasování probíhá po jednotlivých návrzích zvlášť
+3. Každý účastník Schůze členů, který hlasuje na dálku, může v každém návrhu
+hlasovat PRO přijetí, PROTI přijetí, nebo se zdržet hlasování; zdržení se
+hlasování musí být aktivím úkonem, který má stejnou formu, jako hlasování PRO
+nebo PROTI
+4. Za přítomného člena podle bodu 2. §11  se v případě hlasování na dálku
+považuje takový člen, který se zúčastnil hlasování podle předchozího bodu.
+5. Je-li o daném návrhu možné hlasovat na dálku, činí termín pro odevzdání
+dálkového hlasu 120 hodin od okamžiku předložení návrhu k hlasování, není-li ve
+schváleném programu schůze u daného návrhu stanoveno jinak
+6. Hlasování na dálku může Rada spolku v mimořádných případech, nebo v
+případech, kdy není praktické svolávat Schůzi členu, vyvolat i o samostatných
+návrzích mimo Schůzu členů; v takovém případě se postupuje přiměřeně podle §
+11a a 11b a hlasování má stejné účinky, jako by bylo provedeno na řádné Schůzi
+členů
+7. Termín pro odevzdání dálkového hlasu podle předchozího bodu je 336 hodin;
+tento termín může Rada spolku zkrátit pouze v odůvodněných případech, nejméně
+však na 24 hodin
+8. O výsledku hlasování na dálku informuje členy Spolku Rada spolku, a to bez
+zbytečného odkladu po hlasování.
 
 ### §12 Mimořádné jednání Schůze členů
 
@@ -212,11 +266,12 @@ Schůze členů po zahájení schválí volební řád, který upraví postup p�
 
 ### §15 Postavení a působnost
 
-1. Rada je statutárním orgánem spolku, který řídí činnost Spolku
-2. Rada rozhoduje o všech činnostech spolku, které nejsou stanovami vyhrazeny do
+1. Rada je kolektivním statutárním orgánem spolku, který řídí činnost Spolku
+2. Za Radu jedná navenek její předseda; v jeho nepřítomnosti jiný pověřený člen Rady
+3. Rada rozhoduje o všech činnostech spolku, které nejsou stanovami vyhrazeny do
 působnosti Schůze členů nebo Kontrolní komise. Při své činnosti se Rada řídí
 stanovami Spolku a ustanoveními Schůze členů.
-3. Rada:
+4. Rada:
   1. dbá na plnění cílů Spolku,
   2. zajišťuje řádné plnění zákonných povinností Spolku
   3. volí Hospodáře, který spravuje majetek Spolku a zajišťuje řádné vedení
@@ -229,11 +284,11 @@ stanovami Spolku a ustanoveními Schůze členů.
   9. poskytuje informace členům o své činnosti prostřednictvím informačního
 systému spolku
   10. svolává jednání Schůze členů i mimořádné jednání Schůze členů
-4. Rada zajistí Kontrolní komisi přístup k veškerým dokumentům související s
+5. Rada zajistí Kontrolní komisi přístup k veškerým dokumentům související s
 činností spolku
-5. Rada je kdykoliv povinna podat vysvětlení jakéhokoliv rozhodnutí Kontrolní
+6. Rada je kdykoliv povinna podat vysvětlení jakéhokoliv rozhodnutí Kontrolní
 komisi
-6. Rada má povinnost předložit Kontrolní komisi ke schválení veškeré plánované
+7. Rada má povinnost předložit Kontrolní komisi ke schválení veškeré plánované
 uzavření obchodů s členem Spolku nebo s osobami jemu blízkými v pracovněprávním
 nebo jiném obdobném vztahu.
 
@@ -286,7 +341,8 @@ většina jejích členů.
 1.  Rada vydává pro potřeby řádného chodu Spolku interní řády:
 Organizační řád,
   2. Provozní řád,
-  3. Finanční řád.
+  3. Finanční řád,
+  4. Řád pro hlasování Schůte členů na dálku (per rollam).
 2. Interní řády jsou veřejné, platný text je vždy zveřejněn v informačním
 systému spolku.
 3. Organizační řád upravuje zejména podrobné postupy při organizování činnosti
@@ -296,7 +352,10 @@ Spolku.
 4. Provozní řád upravuje zejména pravidla pro využívání informačních technologií
 Spolku členem.5. Finanční řád upravuje zejména výši členských příspěvků.
 Finanční řád je platný po schválení Schůzí členů.
-6. O změně interního řádu je Rada povinna informovat oznámením ve formě
+6. Řád pro hlasování Schůze členů na dálku (per rollam) upravuje zejména postup
+při tomto způsobu hlasování a technické řešení tohoto hlasování a dale podmínky
+pro účast na takovém hlasování.
+7. O změně uvedených řádů je Rada povinna informovat oznámením ve formě
 elektronické zprávy zaslané všem členům a veřejným oznámením v informačním
 systému Spolku nejméně 10 pracovních dnů před začátkem platnosti.
 
@@ -310,13 +369,9 @@ systému Spolku nejméně 10 pracovních dnů před začátkem platnosti.
 
 ### §20 Předseda
 
-1. Jménem Spolku podepisuje Předseda; v jeho nepřítomnosti člen pověřený Radou.
-Podepisování za Spolku se uskutečňuje tak, že k názvu Spolku se připojí jméno
-a podpis předsedy. V případě, že podepisuje pověřený člen Rady, je povinen
-doložit pověření od Rady.
-2. Předseda je odpovědný za celkovou koordinaci, vedení a provozní činnost
+1. Předseda je odpovědný za celkovou koordinaci, vedení a provozní činnost
 Spolku a práci případných zaměstnanců.
-3. Předsedu volí Rada ze svých členů.
+2. Předsedu volí Rada ze svých členů.
 
 ### KONTROLNÍ KOMISE
 
@@ -361,7 +416,7 @@ o živnostenském podnikání.
 komise může být odvolán pouze Schůzí členů na jejím pravidelném nebo mimořádném
 zasedání. Výkon funkce člena Kontrolní komise skončí dnem zvolení nového člena
 Kontrolní komise.
-6. Člen Kontrolní komise, který přestal splňovat podmínky uvedené v §23 odst. 3
+6. Člen Kontrolní komise, který přestal splňovat podmínky uvedené v bodu 3. §23
 nebo odstoupil, je povinen tuto skutečnost oznámit písemným prohlášením
 doručeným Radě. Funkce zaniká dnem doručení takového oznámení.
 7. Kontrolní komise, pokud počet jejích členů zvolených Schůzí členů neklesl
@@ -384,7 +439,7 @@ jeho členům škodu.
 
 ### Zásady hospodaření
 
-### §23
+### §23 Hospodářská činnost spolku
 
 1. Spolek je neziskovou organizací.
 2. Spolek hospodaří s vlastním majetkem, jehož zdroje jsou zejména členské
@@ -426,9 +481,12 @@ a dalších údajů, které mají být používány ke komunikaci Spolku s člen
 považují za doručené i v případě, že je člen na adrese vedené v seznamu členů
 nepřevzal nebo převzít odmítl.
 
-### §26 Stanovy
+### §26 Stanovy, účinnost
 
 1. Rada zabezpečuje vyhotovení úplného znění stanov a je povinna oznámit nové
-znění stanov Ministerstvu vnitra ČR.
+znění stanov příslušnému spolkovému rejstříku
 2. Stanovy jsou veřejné a Rada zajistí, aby v informačním systému Spolku bylo
 zveřejněno aktuální znění stanov.
+3. Tyto stanovy byly schváleny na jednání Schůze členů dne 8.3.2019 a
+nahrarazují v plném rozsahu stanovy Spolku ze dne 21.12.2015.
+4. Tyto stanovy jsou účinné od 8.3.2019.
