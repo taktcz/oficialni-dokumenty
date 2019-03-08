@@ -487,6 +487,6 @@ nepřevzal nebo převzít odmítl.
 znění stanov příslušnému spolkovému rejstříku
 2. Stanovy jsou veřejné a Rada zajistí, aby v informačním systému Spolku bylo
 zveřejněno aktuální znění stanov.
-3. Tyto stanovy byly schváleny na jednání Schůze členů dne 8.3.2019 a
+3. Tyto stanovy byly schváleny na jednání Schůze členů dne 9.3.2019 a
 nahrazují v plném rozsahu stanovy Spolku ze dne 21.12.2015.
-4. Tyto stanovy jsou účinné od 8.3.2019.
+4. Tyto stanovy jsou účinné od 9.3.2019.
