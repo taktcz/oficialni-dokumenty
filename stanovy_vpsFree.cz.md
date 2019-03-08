@@ -249,7 +249,7 @@ podezření, že člen Rady nebo Kontrolní komise:
   1. spáchal trestný čin v souvislosti s výkonem své funkce ve Spolku
   2. soustavně jedná proti zájmům spolku
   3. přestal splňovat požadavky na funkci člena Rady nebo Kontrolní komise a
-  přesto neodstoupit z funkce.
+  přesto neodstoupil z funkce.
 
 ### §13 Jednací řád
 
