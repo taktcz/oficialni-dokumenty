@@ -227,8 +227,8 @@ samostatných návrzích mimo řádnou Schůzi členů; v takovém případě se
 přiměřeně podle § 11, 11a a 11b, a hlasování má stejné účinky, jako by bylo
 provedeno na řádné Schůzi členů
 7. Termín pro odevzdání dálkového hlasu podle předchozího bodu stanoví Rada spolku
-nejméně na 336 hodin; kratší termín může Rada spolku stanovit pouze v
-odůvodněných případech, nejméně však na 24 hodin
+nejméně na 336 hodin; kratší termín, nejméně však 120 hodin, může Rada spolku
+stanovit pouze v závažných případech, kde by hrozilo nebezpečí z prodlení
 8. O výsledku hlasování na dálku informuje členy Spolku Rada spolku po skončení
 hlasování bez zbytečného odkladu.
 
