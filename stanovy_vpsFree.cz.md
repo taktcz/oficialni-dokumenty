@@ -452,8 +452,9 @@ příspěvky:
   1. jednorázový vstupní příspěvek,
   2. pravidelný měsíční příspěvek,
   3. mimořádný příspěvek
-3. Dalšími příjmy jsou platby za služby členům, dary, dotace a granty
-4. Majetek je používán výhradně k plnění cílů činnosti Spolku
+3. Dalšími příjmy jsou platby za služby členům, dary, dotace, granty a příjmy z
+vedlejší hospodářské činnosti, pokud Spolek takovou činnost vykonává 
+4. Majetek a příjmy Spolku jsou používány výhradně k plnění cílů činnosti Spolku
 5. Spolek může uzavřít smlouvu o součinnosti s právnickou osobou pro finanční
 zajištění svých aktivit
 6. Pokud Rada Spolku rozhodne o nákupu komerčního softwaru, je povinna jej
