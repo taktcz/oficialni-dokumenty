@@ -250,7 +250,6 @@ podezření, že člen Rady nebo Kontrolní komise:
   2. soustavně jedná proti zájmům spolku
   3. přestal splňovat požadavky na funkci člena Rady nebo Kontrolní komise a
   přesto neodstoupit z funkce.
-Mimořádná schůze členů musí projednat zejména toto podezření.
 
 ### §13 Jednací řád
 
