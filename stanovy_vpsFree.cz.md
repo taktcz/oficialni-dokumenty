@@ -204,7 +204,7 @@ dálku (per rollam) přijatý dle § 18 Stanov
 hlasovat na dálku; takové hlasování má stejné účinky, jako hlasování v
 přítomnosti
 4. Program Schůze členů, která probíhá částečně či zcela na dálku, se považuje
-za schválený, pokud nedojde k jeho zamítnutí účastníky schůze do 1 hodiny od
+za schválený, pokud nedojde k jeho zamítnutí přítomnými členy do 24 hodin od
 zahájení schůze; bod 5. § 11b o dálkovém hlasování se v tomto případě
 neuplatní.
 
