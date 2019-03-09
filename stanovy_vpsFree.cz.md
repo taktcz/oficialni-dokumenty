@@ -146,7 +146,7 @@ Každý člen Spolku je povinen:
   3. schvaluje zprávu Rady o činnosti a hospodaření Spolku za období od
   předchozí řádné schůze členů,
   4. schvaluje zprávu Kontrolní komise o revizi činnosti a hospodaření Spolku
-  za období od předchozí řádné chůze členů,
+  za období od předchozí řádné schůze členů,
   5. zadává úkoly Kontrolní komisi,
   6. rozhoduje o zásadních záležitostech výrazně ovlivňujících budoucí
   fungování a existenci spolku, zejména otázky zániku spolku, slučování s jiným
