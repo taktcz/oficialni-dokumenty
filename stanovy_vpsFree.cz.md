@@ -279,7 +279,7 @@ stanovami Spolku a ustanoveními Schůze členů
   2. zajišťuje řádné plnění zákonných povinností Spolku,
   3. volí Hospodáře, který spravuje majetek Spolku a zajišťuje řádné vedení
   účetnictví, statistik a jiných záznamů podle platných právních předpisů,
-  4. volí Předsedu, který jedná jménem Spolku,
+  4. volí Předsedu Rady spolku,
   5. spravuje informační systém,
   6. rozhoduje o přijetí člena,
   7. rozhoduje o vyloučení člena,
@@ -373,9 +373,15 @@ systému Spolku nejméně 10 pracovních dnů před začátkem platnosti.
 
 ### §20 Předseda
 
-1. Předseda je odpovědný za celkovou koordinaci, vedení a provozní činnost
-Spolku a práci případných zaměstnanců
-2. Předsedu volí Rada ze svých členů.
+1. Předsedu volí Rada ze svých členů
+2. Předseda Rady spolku:
+  1. jménem Rady spolku za Spolek navenek jedná a podepisuje,
+  2. za Spolek dle předchozího bodu podepisuje tak, že k názvu Spolku připojí
+  své jméno a podpis,
+  3. je odpovědný za celkovou koordinaci, vedení a provozní činnost Spolku a
+  práci případných zaměstnanců
+3. Jedná-li místo Předsedy pověřený člen Rady, musí své pověření věrohodně
+doložit; §20 se na pověřeného člena Rady v rozsahu pověření použije přiměřeně
 
 ### KONTROLNÍ KOMISE
 
