@@ -21,10 +21,10 @@ vpsFree.cz (dále také jen jako "spolek").
 ### 2. Ochrana soukromí
 
 1. Spolek a jeho principy fungování se zakládají na hlubokém respektu k soukromí
-jednotlivce, jeho právo na sebeurčení a jeho nerušený rozvoj s respektem k ostatním.
+jednotlivce, jeho práva na sebeurčení a jeho nerušený rozvoj s respektem k ostatním.
 K těmto aspektům ochrany soukromí se členové Rady a Kontrolní komise zavázali
-při vzniku funkce - Rada svou povinnost mlčenlivosti ctí neustálým zlepšováním
-ochrany soukromí členů a Kontrolní komise na tuto činnost Rady dohlíží a
+při vzniku funkce - Rada svou povinnost mlčenlivosti zajišťuje neustálým zlepšováním
+ochrany soukromí členů, Kontrolní komise na tuto činnost Rady dohlíží a
 případně ji stimuluje.
 
 ### 3. Data k ochraně a nakládání s nimi
